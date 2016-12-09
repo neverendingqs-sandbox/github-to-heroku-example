@@ -11,5 +11,5 @@ Push the button below, or check out blah.com.
 ```shell
 npm install
 npm start
-npm run test
+npm test
 ```
