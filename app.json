@@ -1,0 +1,10 @@
+{
+  "name": "GitHub to Heroku Example",
+  "description": "A simple Express.js application that can be deployed to Heroku.",
+  "repository": "https://github.com/neverendingqs-sandbox/expressjs-heroku-example",
+  "keywords": [
+    "github",
+    "heroku",
+    "travis-ci"
+  ]
+}

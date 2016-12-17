@@ -4,9 +4,11 @@
 
 A simple [Express.js](http://expressjs.com/) application that can be deployed to [Heroku](https://www.heroku.com/). Includes running tests on [Travis CI](https://travis-ci.org/) before deploying.
 
-## Deploying to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Push the button below, or check out blah.com.
+Source code used as an example for:
+
+* [Tech I Use: Heroku](http://blog.neverendingqs.com/2016/12/11/tech-i-use-heroku/)
 
 ## Running it Locally
 
