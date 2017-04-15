@@ -1,5 +1,5 @@
 {
-  "name": "github-to-heroku-example",
+  "name": "expressjs-heroku-example",
   "version": "0.1.0",
   "description": "Example project for CI / CD from GitHub to Heroku.",
   "main": "src/server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neverendingqs-sandbox/github-to-heroku-example"
+    "url": "git+https://github.com/neverendingqs-sandbox/expressjs-heroku-example"
   },
   "keywords": [
     "github",
@@ -19,9 +19,9 @@
   "author": "neverendingqs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neverendingqs-sandbox/github-to-heroku-example/issues"
+    "url": "https://github.com/neverendingqs-sandbox/expressjs-heroku-example/issues"
   },
-  "homepage": "https://github.com/neverendingqs-sandbox/github-to-heroku-example#readme",
+  "homepage": "https://github.com/neverendingqs-sandbox/expressjs-heroku-example#readme",
   "dependencies": {
     "express": "^4.14.0"
   },

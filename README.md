@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/neverendingqs-sandbox/github-to-heroku-example.svg?branch=master)](https://travis-ci.org/neverendingqs-sandbox/github-to-heroku-example)
+[![Build Status](https://travis-ci.org/neverendingqs-sandbox/expressjs-heroku-example.svg?branch=master)](https://travis-ci.org/neverendingqs-sandbox/expressjs-heroku-example)
 
 # GitHub to Heroku Example
 
