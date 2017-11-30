@@ -2,6 +2,8 @@
 
 # GitHub to Heroku Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/neverendingqs-sandbox/expressjs-heroku-example.svg)](https://greenkeeper.io/)
+
 A simple [Express.js](http://expressjs.com/) application that can be deployed to [Heroku](https://www.heroku.com/). Includes running tests on [Travis CI](https://travis-ci.org/) before deploying.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
